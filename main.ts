@@ -15,6 +15,3 @@ RunComp.OnLightDrop(function on_light_drop() {
     }
     
 })
-radio.onReceivedNumber(function on_received_number(receivedNumber: number) {
-    
-})

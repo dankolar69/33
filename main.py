@@ -21,9 +21,7 @@ def on_light_drop():
 
 RunComp.on_light_drop(on_light_drop)
 
-def on_received_number(receivedNumber):
-        pass
-radio.on_received_number(on_received_number)
+
 
     
 
